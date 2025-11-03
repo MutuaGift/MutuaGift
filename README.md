@@ -61,5 +61,5 @@
 ---
 
 <p align="center">
-  🖤 Made with passion by <b>Gift Mutua</b>
+  Building, breaking, and fixing — one commit at a time
 </p>
