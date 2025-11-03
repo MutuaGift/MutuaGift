@@ -1,6 +1,6 @@
 <!-- Profile README for MutuaGift -->
 
-<h1 align="center">👋 Hey there, I'm Gift Mutua</h1>
+<h1 align="center">Hey there, I'm Gift Mutua</h1>
 
 <p align="center">
   🌍 Passionate about code, creativity, and continuous learning.<br>
