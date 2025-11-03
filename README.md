@@ -12,8 +12,8 @@
 ### 💫 About Me
 - 🚀 A beginner developer learning **Kotlin** and **Frontend Development**  
 - 🧩 I enjoy solving problems, designing, and experimenting with new technologies  
-- 🐧 Currently using **Ubuntu Linux** as my main development system  
-- 💬 Ask me about HTML, CSS, or how to make your setup look aesthetic 😎  
+
+ 
 
 ---
 
@@ -43,11 +43,6 @@
 
 ---
 
-### 🎯 Goals for 2025
-- Build and deploy my first Kotlin project  
-- Learn a backend language (maybe Python or Node.js)  
-- Participate in a global hackathon 🌍  
-
 ---
 
 ### 🧩 Fun Fact
@@ -59,6 +54,9 @@
 <p align="left">
   <a href="https://github.com/MutuaGift" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+<p align="left">
+   <a href="https://www.instagram.com/l.1wuu/" target="-blank"><<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+   </p>
 
 ---
 
