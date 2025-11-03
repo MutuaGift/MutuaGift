@@ -56,7 +56,7 @@
 </p>
 <p align="left">
    <a href="https://www.instagram.com/l.1wuu/" target="-blank"><<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-   </p>
+</p>
 
 ---
 
