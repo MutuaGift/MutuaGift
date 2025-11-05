@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Gift+Mutua!;Aspiring+Full-Stack+Developer;Creative+%7C+Curious+%7C+Consistent;Welcome+to+my+coding+space!+👨‍💻" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=700&lines=Hey%2C+I'm+Gift+Mutua!;Aspiring+Full-Stack+Developer;Creative+%7C+Curious+%7C+Consistent;Welcome+to+my+coding+space!+👨‍💻" alt="Typing SVG" />
+</div>
 
 <p align="center">
   🌍 Passionate about <b>Code</b>, <b>Creativity</b>, and <b>Continuous Learning</b> <br>
@@ -27,12 +27,12 @@
 
 ### ⚡ My GitHub Journey  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MutuaGift&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=MutuaGift&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MutuaGift&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.demolab.com?user=MutuaGift&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MutuaGift&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MutuaGift&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
 </p>
 
 ---
