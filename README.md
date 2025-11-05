@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&width=700&lines=Hey%2C+I'm+Gift+Mutua!;Aspiring+Full-Stack+Developer;Creative+%7C+Curious+%7C+Consistent;Welcome+to+my+coding+space!+👨‍💻" alt="Typing Animation" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey,+I'm+Gift+Mutua!;Aspiring+Full-Stack+Developer;Creative+%7C+Curious+%7C+Consistent;Welcome+to+my+coding+space!+👨‍💻" 
+    alt="Gift Mutua Typing SVG" />
 </p>
 
 <p align="center">
