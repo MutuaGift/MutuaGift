@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=700&lines=Hey%2C+I'm+Gift+Mutua!;Aspiring+Full-Stack+Developer;Creative+%7C+Curious+%7C+Consistent;Welcome+to+my+coding+space!+👨‍💻" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&width=700&lines=Hey%2C+I'm+Gift+Mutua!;Aspiring+Full-Stack+Developer;Creative+%7C+Curious+%7C+Consistent;Welcome+to+my+coding+space!+👨‍💻" alt="Typing Animation" />
+</p>
 
 <p align="center">
   🌍 Passionate about <b>Code</b>, <b>Creativity</b>, and <b>Continuous Learning</b> <br>
@@ -10,7 +10,7 @@
 
 ---
 
-### 🧠 About Me  
+###  About Me  
 - 🔭 Building cool projects in **C**, **Kotlin**, and **JavaScript**  
 - 🌱 Learning how to integrate **Firebase** into my apps  
 
@@ -18,14 +18,14 @@
 
 ---
 
-### 🛠️ Languages & Tools  
+###  Languages & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,kotlin,html,css,js,react,linux,git,github,vscode,bash&theme=dark" />
 </p>
 
 ---
 
-### ⚡ My GitHub Journey  
+###  My GitHub Journey  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MutuaGift&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-streak-stats.demolab.com?user=MutuaGift&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
@@ -37,16 +37,15 @@
 
 ---
 
-### ✨ Featured Quote  
+###  Featured Quote  
 > “Consistency beats talent — every single time.”  
 
 ---
 
-### 🌐 Connect With Me  
+###  Connect With Me  
 <p align="center">
-  <a href="https://github.com/MutuaGift" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-  <a href="mailto:giftmutua@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://linkedin.com/in/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  
+  
   <a href="https://www.instagram.com/l.1wuu/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
 
