@@ -1,61 +1,51 @@
-<h1 align="center"> Hey, I'm Gift Mutua</h1>
+<h1 align="center">Hey, I'm Gift Mutua</h1>
 
 <p align="center">
-  🌍 Passionate about <b>Code</b>, <b>Creativity</b>, and <b>Continuous Learning</b> <br>
-  💻 Currently exploring <b>Kotlin</b>, <b>Web Development</b> & <b>Firebase</b> <br>
-  🧠 Believer in <i>“Learning by Building.”</i>
+   Passionate about <b>Code</b>, <b>Creativity</b>, and <b>Continuous Learning</b><br>
+   Currently exploring <b>Kotlin</b>, <b>Web Development</b> & <b>Firebase</b><br>
+   Believer in <i>“Learning by Building.”</i><br><br>
+   <i>“Consistency beats talent — every single time.”</i>
 </p>
 
 ---
 
-###  About Me  
-- 🔭 Building cool projects in **C**, **Kotlin**, and **JavaScript**  
-- 🌱 Learning how to integrate **Firebase** into my apps  
-
-- 🎯 Goal: Become a creative full-stack developer solving real problems  
+### About Me
+-  I’m currently learning **Kotlin**, **Firebase**, and **API'S**  
+-  I enjoy solving problems and building small projects that sharpen my skills  
+-  Always improving through practice  
+-  Ask me about **Linux**
 
 ---
 
-###  Languages & Tools  
+### GitHub Stats & Streaks
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,kotlin,html,css,js,react,linux,git,github,vscode,bash&theme=dark" />
+  <img src="https://github-readme-streak-stats-seven.vercel.app?user=MutuaGift&theme=dracula&hide_border=true" alt="Gift Mutua's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MutuaGift&show_icons=true&theme=dracula&hide_border=true" alt="Gift Mutua's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MutuaGift&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-###  My GitHub Journey  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MutuaGift&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150"/>
-  </p>
-  <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MutuaGift&theme=dracula&hide_border=true" alt="Gift Mutua's GitHub Streak" />
-
-
-</p>
+### Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MutuaGift&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
+  <a href="https://www.instagram.com/l.1wuu/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/MutuaGift" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-###  Featured Quote  
-> “Consistency beats talent — every single time.”  
-
----
-
-###  Connect With Me  
-<p align="center">
-  
-  
-  <a href="https://www.instagram.com/l.1wuu/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MutuaGift&style=for-the-badge&color=1e90ff" alt="Profile views" />
-</p>
 
 <p align="center">
   <i>Keep refining your craft — small steps every day add up to mastery.</i>
