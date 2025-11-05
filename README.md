@@ -26,7 +26,11 @@
 ###  My GitHub Journey  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MutuaGift&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=MutuaGift&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
+  </p>
+  <p align="center">
+  <img src="https://streak-stats.demolab.com?user=MutuaGift&theme=dracula&hide_border=true" alt="Gift Mutua's GitHub Streak" />
+
+
 </p>
 
 <p align="center">
