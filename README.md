@@ -1,116 +1,82 @@
-<!-- ────────────────────────────────────────────────────────────── -->
-<!-- 🎨 HEADER -->
-<!-- ────────────────────────────────────────────────────────────── -->
 <div align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Gift+Mutua!;Aspiring+Full-Stack+Developer;Creative+%7C+Curious+%7C+Consistent;Welcome+to+my+coding+space!+👨‍💻" 
-    alt="Typing SVG" 
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=700&lines=Hey%2C+I'm+Gift+Mutua!;Aspiring+Full-Stack+Developer;Creative+%7C+Curious+%7C+Consistent;Welcome+to+my+coding+space!+👨‍💻" alt="Typing SVG" />
 </div>
 
-<br>
-
 <p align="center">
-  🌍 Passionate about <b>Code</b>, <b>Creativity</b>, and <b>Continuous Learning</b><br>
-  💻 Currently exploring <b>Kotlin</b>, <b>API'S</b> & <b>Firebase</b><br>
-  🧠 Driven by the mantra — <i>“Learning by Building.”</i>
+  🧠 Believer in <i>“Learning by Building.”</i> | Passionate about <b>Code</b>, <b>Creativity</b>, and <b>Continuous Learning</b> 🌍
 </p>
 
 ---
 
-<!-- ────────────────────────────────────────────────────────────── -->
-<!-- 🧠 ABOUT -->
-<!-- ────────────────────────────────────────────────────────────── -->
-## 🧠 About Me  
-> A creative problem solver who turns ideas into interactive, user-focused experiences.  
+## 👨‍💻 About Me
 
-- 🔭 Building projects with **C**, **Kotlin**, and **JavaScript**  
-- 🌱 Integrating **Firebase** for real-time, scalable features  
-  
-- 🎯 Goal: Craft elegant full-stack solutions that make an impact  
+* **🎯 Goal:** To become a creative **Full-Stack Developer** focused on solving real-world problems.
+* **🔭 Building:** Currently focused on impactful projects using **C**, **Kotlin**, and **JavaScript**.
+* **🌱 Exploring:** Deep-diving into **Firebase** integration for scalable application backends.
+* **🎨 Design Vibe:** Obsessed with clean, modern design and smooth UI (WhiteSur vibes 😎).
 
 ---
 
-<!-- ────────────────────────────────────────────────────────────── -->
-<!-- 🧩 TECH STACK -->
-<!-- ────────────────────────────────────────────────────────────── -->
-## 🛠️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,kotlin,html,css,js,react,linux,git,github,vscode,bash,firebase&theme=dark" />
-</p>
+## 🛠️ Languages & Tools
+
+My everyday toolkit for turning ideas into reality.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux-0A66C2?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Currently-Learning-58A6FF?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=c,kotlin,html,css,js,react,linux,git,github,vscode,bash&theme=dark" />
 </p>
 
 ---
 
-<!-- ────────────────────────────────────────────────────────────── -->
-<!-- 📊 GITHUB STATS -->
-<!-- ────────────────────────────────────────────────────────────── -->
-## ⚡ GitHub Journey  
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MutuaGift&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" 
-    height="150" 
-  />
-  <img 
-    src="https://github-readme-streak-stats.demolab.com?user=MutuaGift&theme=tokyonight&hide_border=true&border_radius=12" 
-    height="150" 
-  />
-</div>
+## 🚀 Featured Projects
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MutuaGift&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" 
-    height="150" 
-  />
-</div>
+Showcasing my commitment to the **"Learning by Building"** philosophy.
+
+> **👋 Action Required:** Update these placeholders with links and descriptions of your best work!
+
+* **[Project Name 1]** - A brief description of this project and why you built it.
+    * **Tech Stack:** `Kotlin` | `Firebase` | `[Other Tech]`
+    * [Link to Project Repository](https://github.com/MutuaGift/your-project-repo-1)
+* **[Project Name 2]** - A web application exploring [specific concept] built with front-end focus.
+    * **Tech Stack:** `React` | `JavaScript` | `CSS`
+    * [Link to Project Repository](https://github.com/MutuaGift/your-project-repo-2)
 
 ---
 
-<!-- ────────────────────────────────────────────────────────────── -->
-<!-- 🚀 FEATURED PROJECTS -->
-<!-- ────────────────────────────────────────────────────────────── -->
-## 🚀 Featured Projects  
+## ⚡ My GitHub Journey
+
+My commitment to consistency and growth, visualized.
+
 <p align="center">
-  <a href="https://github.com/MutuaGift/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MutuaGift&repo=project1&theme=tokyonight&hide_border=true&border_radius=12"/>
-  </a>
-  <a href="https://github.com/MutuaGift/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MutuaGift&repo=project2&theme=tokyonight&hide_border=true&border_radius=12"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MutuaGift&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.demolab.com?user=MutuaGift&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MutuaGift&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
 </p>
 
 ---
 
-<!-- ────────────────────────────────────────────────────────────── -->
-<!-- ✨ QUOTE -->
-<!-- ────────────────────────────────────────────────────────────── -->
-## ✨ Featured Quote  
-> “Consistency beats talent — every single time.”  
+### ✨ Quote to Live By
+> “Consistency beats talent — every single time.”
 
 ---
 
-<!-- ────────────────────────────────────────────────────────────── -->
-<!--  CONNECT -->
-<!-- ────────────────────────────────────────────────────────────── -->
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://github.com/MutuaGift" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+## 🌐 Connect With Me
 
-  <a href="https://www.instagram.com/l.1wuu/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+Let's collaborate! I'm always open to discussing tech, design, and new opportunities.
+
+<p align="center">
+  <a href="https://github.com/MutuaGift" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="mailto:giftmutua@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://linkedin.com/in/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://www.instagram.com/l.1wuu/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MutuaGift&style=for-the-badge&color=1e90ff" alt="Profile views" />
+</p>
 
-<!-- ────────────────────────────────────────────────────────────── -->
-<!-- FOOTER -->
-<!-- ────────────────────────────────────────────────────────────── -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MutuaGift&style=for-the-badge&color=1e90ff" alt="Profile views" />
-  <br><br>
-   <i>Keep refining your craft — small steps every day add up to mastery.</i>
-</div>
+<p align="center">
+  🩵 <i>Keep refining your craft — small steps every day add up to mastery.</i>
+</p>
