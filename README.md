@@ -1,10 +1,8 @@
-
-
 <div align="center">
   
 # Gift Mutua
 
-### Full-Stack Developer | Creative Problem Solver
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Creative+Problem+Solver;Building+the+Future+with+Code" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MutuaGift&style=for-the-badge&color=1e90ff)](https://github.com/MutuaGift)
 
@@ -40,6 +38,8 @@ I'm a passionate full-stack developer who believes in the power of consistent it
 ### Development Tools
 
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash,firebase,mongodb&theme=dark" alt="Tools" />
+
+<img src="https://github.com/MutuaGift/MutuaGift/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -118,7 +118,7 @@ I'm always excited to collaborate on interesting projects or discuss innovative 
 <a href="https://github.com/MutuaGift">
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
 </a>&nbsp;&nbsp;
-<a href="mailto:giftmutua@example.com">
+<a href="mailto:mutisogift2@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email" />
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/l.1wuu/">
