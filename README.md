@@ -1,6 +1,6 @@
 <div align="center">
   
-# Gift Mutua
+#Hello,World! I'm Gift
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Creative+Problem+Solver;Building+the+Future+with+Code" alt="Typing SVG" />
 
