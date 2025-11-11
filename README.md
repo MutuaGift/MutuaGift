@@ -1,103 +1,142 @@
-# Gift Mutua
+
 
 <div align="center">
-  <h3>Aspiring Full-Stack Developer</h3>
-  <p>Creative • Curious • Consistent</p>
   
-  <p><i>"Learning by Building"</i> — Passionate about code, creativity, and continuous improvement</p>
+# Gift Mutua
+
+### Full-Stack Developer | Creative Problem Solver
+
+[![Profile Views](https://komarev.com/ghpvc/?username=MutuaGift&style=for-the-badge&color=1e90ff)](https://github.com/MutuaGift)
+
+*"Learning by Building"* — Transforming ideas into elegant, functional solutions
+
+[📧 Email](mailto:giftmutua@example.com) • [💼 GitHub](https://github.com/MutuaGift) • [📸 Instagram](https://www.instagram.com/l.1wuu/)
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm an aspiring full-stack developer focused on building practical solutions to real-world problems. I believe in the power of consistency and hands-on learning through project development.
+I'm a passionate full-stack developer who believes in the power of consistent iteration and hands-on learning. My approach combines technical precision with creative problem-solving to build applications that make a difference.
 
-- **Current Focus:** Building robust applications with **C**, **Kotlin**, and **JavaScript**
-- **Learning:** Firebase integration for scalable backends and modern web development frameworks
-- **Design Philosophy:** Clean, modern interfaces with attention to user experience
-- **Approach:** Small, consistent steps towards mastery
+```text
+💡 Current Focus      → Building with C, Kotlin, Java, Python & JavaScript
+🎯 Learning          → Firebase & MongoDB integration, modern web frameworks
+🎨 Design Philosophy → Clean interfaces, exceptional UX
+⚡ Methodology       → Small, consistent steps toward mastery
+```
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,kotlin,html,css,js,react&theme=dark" alt="Languages"/>
-</p>
 
-### Tools & Environment
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash,firebase&theme=dark" alt="Tools"/>
-</p>
+<img src="https://skillicons.dev/icons?i=c,kotlin,java,python,js,react&theme=dark" alt="Languages" />
 
-**Core Skills:**
-- **Languages:** C, Kotlin, JavaScript, HTML5, CSS3
-- **Frameworks:** React
-- **Tools:** Git, GitHub, VS Code, Bash
-- **Systems:** Linux
-- **Currently Exploring:** Firebase, Modern Web Frameworks
+### Development Tools
 
-### 📈 Coding Activity
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash,firebase,mongodb&theme=dark" alt="Tools" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MutuaGift&theme=dracula&hide_border=true" alt="WakaTime Stats"/>
-</p>
+</div>
 
----
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-## 📊 GitHub Statistics
+**💻 Core Technologies**
+- C Programming
+- Kotlin Development
+- Java
+- Python
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- React.js
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MutuaGift&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MutuaGift&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="170"/>
-</p>
+</td>
+<td valign="top" width="50%">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MutuaGift&theme=dracula&hide_border=true" alt="GitHub Streak" width="500"/>
-</p>
+**🔧 Tools & Environment**
+- Linux Systems
+- Git Version Control
+- VS Code
+- Bash Scripting
+- Firebase
+- MongoDB
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MutuaGift&theme=dracula" alt="GitHub Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MutuaGift&theme=dracula&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MutuaGift&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MutuaGift&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MutuaGift&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MutuaGift&theme=dracula&hide_border=true&layout=compact" alt="WakaTime Stats" />
+</div>
+
+<details>
+<summary><b>📈 Detailed Activity</b></summary>
+<br/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MutuaGift&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MutuaGift&theme=dracula" alt="GitHub Activity" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MutuaGift&theme=dracula&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+</details>
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 Achievements
 
-I'm always open to collaboration and learning opportunities. Feel free to reach out:
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MutuaGift&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+</div>
 
-<p align="center">
-  <a href="https://github.com/MutuaGift" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
-  </a>
-  <a href="mailto:giftmutua@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
-  </a>
-  <a href="https://www.instagram.com/l.1wuu/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
-  </a>
-</p>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MutuaGift&style=flat-square&color=1e90ff" alt="Profile Views"/>
-</p>
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always excited to collaborate on interesting projects or discuss innovative ideas. Let's build something amazing together!
+
+<a href="https://github.com/MutuaGift">
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+</a>&nbsp;&nbsp;
+<a href="mailto:giftmutua@example.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email" />
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/l.1wuu/">
+  <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-  <i>"Consistency beats talent — every single time."</i>
+  
+### 💭 Philosophy
+
+*"Consistency beats talent — every single time."*
+
+**Creative • Curious • Consistent**
+
+<sub>⭐️ If you find my work interesting, consider starring some repositories!</sub>
+
 </div>
