@@ -10,7 +10,7 @@
 
 *"Learning by Building"* — Transforming ideas into elegant, functional solutions
 
-[📧 Email](mailto:giftmutua@example.com) • [💼 GitHub](https://github.com/MutuaGift) • [📸 Instagram](https://www.instagram.com/l.1wuu/)
+[📧 Email](mailto:mutisogift2@gmail.com) • [💼 GitHub](https://github.com/MutuaGift) • [📸 Instagram](https://www.instagram.com/l.1wuu/)
 
 </div>
 
