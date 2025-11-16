@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hey World, I'm Gift
+# Hello,world I'm Gift
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%92%A1;Building+Digital+Experiences+%E2%9C%A8;Chrome+Extension+Developer+%F0%9F%94%A7" alt="Typing SVG" />
 
@@ -24,9 +24,9 @@ I'm a full-stack developer with a passion for building tools that solve real pro
 data class Developer(
     val name: String = "Gift",
     val currentFocus: List<String> = listOf(
-        "Chrome Extensions", 
-        "Web Development", 
-        "System Programming"
+        "Crafting Digital Experiences", 
+        "Learning by Building", 
+        "Turning Ideas into Reality"
     ),
     val languages: List<String> = listOf(
         "C", "Kotlin", "Java", "Python", "JavaScript"
@@ -128,6 +128,6 @@ I'm always open to interesting projects, hackathons, or just geeking out about t
 
 <sub>⭐️ Like what you see? Star some repos and let's build together!</sub>
 
-![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
+![](https://hit.yhype.me/github/profile?user_id=234061294)
 
 </div>
