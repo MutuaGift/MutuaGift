@@ -1,13 +1,14 @@
 <div align="center">
 
-  
-Hello,World! I'm Gift
+#  Hey World, I'm Gift
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Creative+Problem+Solver;Building+the+Future+with+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%92%A1;Building+Digital+Experiences+%E2%9C%A8;Chrome+Extension+Developer+%F0%9F%94%A7" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MutuaGift&style=for-the-badge&color=1e90ff)](https://github.com/MutuaGift)
+[![Profile Views](https://komarev.com/ghpvc/?username=MutuaGift&style=for-the-badge&color=00d9ff)](https://github.com/MutuaGift)
 
-*"Learning by Building"* — Transforming ideas into elegant, functional solutions
+### *"Code. Build. Iterate. Repeat."*
+
+Transforming caffeine into code and ideas into reality, one commit at a time ☕💻
 
 [📧 Email](mailto:mutisogift2@gmail.com) • [💼 GitHub](https://github.com/MutuaGift) • [📸 Instagram](https://www.instagram.com/l.1wuu/)
 
@@ -15,129 +16,118 @@ Hello,World! I'm Gift
 
 ---
 
-## 🚀 About Me
+## 🎯 About Me
 
-I'm a passionate full-stack developer who believes in the power of consistent iteration and hands-on learning. My approach combines technical precision with creative problem-solving to build applications that make a difference.
+I'm a full-stack developer with a passion for building tools that solve real problems. Whether it's crafting Chrome extensions, developing web applications, or diving into systems programming, I believe in learning by doing and shipping projects that matter.
 
-```text
-💡 Current Focus      → Building with C, Kotlin, Java, Python & JavaScript
-🎯 Learning          → Firebase & MongoDB integration, modern web frameworks
-🎨 Design Philosophy → Clean interfaces, exceptional UX
-⚡ Methodology       → Small, consistent steps toward mastery
+```kotlin
+data class Developer(
+    val name: String = "Gift",
+    val currentFocus: List<String> = listOf(
+        "Chrome Extensions", 
+        "Web Development", 
+        "System Programming"
+    ),
+    val languages: List<String> = listOf(
+        "C", "Kotlin", "Java", "Python", "JavaScript"
+    ),
+    val frameworks: List<String> = listOf("React", "Node.js"),
+    val databases: List<String> = listOf("Firebase", "MongoDB"),
+    val philosophy: String = "Ship fast, iterate faster 🚢",
+    val funFact: String = "I believe in learning by building 💡"
+)
+
+val me = Developer()
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Languages & Frameworks
+### Languages
+<img src="https://skillicons.dev/icons?i=c,kotlin,java,python,js,typescript,html,css&theme=dark" alt="Languages" />
 
-<img src="https://skillicons.dev/icons?i=c,kotlin,java,python,js,react&theme=dark" alt="Languages" />
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=dark" alt="Frameworks" />
 
-### Development Tools
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash,firebase,mongodb&theme=dark" alt="Tools" />
-
-<img src="https://github.com/MutuaGift/MutuaGift/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,firebase,mongodb,figma&theme=dark" alt="Tools" />
 
 </div>
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-**💻 Core Technologies**
-- C Programming
-- Kotlin Development
-- Java
-- Python
-- JavaScript (ES6+)
-- HTML5 & CSS3
-- React.js
-
-</td>
-<td valign="top" width="50%">
-
-**🔧 Tools & Environment**
-- Linux Systems
-- Git Version Control
-- VS Code
-- Bash Scripting
-- Firebase
-- MongoDB
-
-</td>
-</tr>
-</table>
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Current Projects
+
+- 🎥 **YouTube Watch Tracker** - Chrome extension for tracking viewing habits
+- 🌐 **Portfolio Projects** - Building and refining full-stack applications
+- 📚 **Learning Journey** - Deepening knowledge in backend architecture and cloud services
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MutuaGift&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MutuaGift&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MutuaGift&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MutuaGift&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MutuaGift&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MutuaGift&theme=dracula&hide_border=true&layout=compact" alt="WakaTime Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MutuaGift&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<details>
-<summary><b>📈 Detailed Activity</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MutuaGift&theme=dracula" alt="GitHub Activity" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MutuaGift&theme=dracula&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
-</details>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MutuaGift&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
 
 ---
 
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MutuaGift&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MutuaGift&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 💡 What I'm Learning
+
+- 🔥 Advanced Firebase techniques and real-time databases
+- 🎨 Modern UI/UX design principles
+- 🧪 Test-driven development practices
+- ⚡ Performance optimization strategies
+- 🔐 Security best practices for web applications
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm always open to interesting projects, hackathons, or just geeking out about tech. Whether you have an idea or want to contribute to existing projects, let's connect!
 
 <div align="center">
 
-I'm always excited to collaborate on interesting projects or discuss innovative ideas. Let's build something amazing together!
-
-<a href="https://github.com/MutuaGift">
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
-</a>&nbsp;&nbsp;
-<a href="mailto:mutisogift2@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email" />
-</a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/l.1wuu/">
-  <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-MutuaGift-00d9ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MutuaGift)
+[![Email](https://img.shields.io/badge/Email-mutisogift2%40gmail.com-00d9ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mutisogift2@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@l.1wuu-00d9ff?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l.1wuu/)
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💭 Philosophy
 
-*"Consistency beats talent — every single time."*
+### 💭 Daily Mantra
 
-**Creative • Curious • Consistent**
+*"Consistent progress > Sporadic perfection"*
 
-<sub>⭐️ If you find my work interesting, consider starring some repositories!</sub>
+**🎨 Creative • 🔍 Curious • 🎯 Consistent**
+
+<img src="https://github.com/MutuaGift/MutuaGift/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<sub>⭐️ Like what you see? Star some repos and let's build together!</sub>
+
+![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
 
 </div>
