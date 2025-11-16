@@ -1,8 +1,9 @@
+
 <div align="center">
 
-# Hello,world I'm Gift
+# Hello, world I'm Gift 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%92%A1;Building+Digital+Experiences+%E2%9C%A8;Chrome+Extension+Developer+%F0%9F%94%A7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%92%A1;Building+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MutuaGift&style=for-the-badge&color=00d9ff)](https://github.com/MutuaGift)
 
@@ -18,7 +19,7 @@ Transforming caffeine into code and ideas into reality, one commit at a time ☕
 
 ## 🎯 About Me
 
-I'm a full-stack developer with a passion for building tools that solve real problems. Whether it's crafting Chrome extensions, developing web applications, or diving into systems programming, I believe in learning by doing and shipping projects that matter.
+I'm a full-stack developer with a passion for building tools that solve real problems. Whether it's developing web applications or diving into systems programming, I believe in learning by doing and shipping projects that matter.
 
 ```kotlin
 data class Developer(
@@ -61,7 +62,7 @@ val me = Developer()
 
 ## 🚀 Current Projects
 
-- 🎥 **YouTube Watch Tracker** - Chrome extension for tracking viewing habits
+- 🎵 **Echo Music Tracker** - Web application for tracking music listening habits
 - 🌐 **Portfolio Projects** - Building and refining full-stack applications
 - 📚 **Learning Journey** - Deepening knowledge in backend architecture and cloud services
 
@@ -70,16 +71,23 @@ val me = Developer()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MutuaGift&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MutuaGift&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MutuaGift&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MutuaGift&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MutuaGift&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MutuaGift&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MutuaGift&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MutuaGift&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
 </div>
 
 ---
@@ -87,7 +95,9 @@ val me = Developer()
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MutuaGift&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=MutuaGift&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+
 </div>
 
 ---
@@ -131,3 +141,6 @@ I'm always open to interesting projects, hackathons, or just geeking out about t
 ![](https://hit.yhype.me/github/profile?user_id=234061294)
 
 </div>
+```
+
+Copy and paste this entire code into your GitHub README.md file. The formatting is preserved and ready to use!
