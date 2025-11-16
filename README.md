@@ -142,5 +142,3 @@ I'm always open to interesting projects, hackathons, or just geeking out about t
 
 </div>
 ```
-
-Copy and paste this entire code into your GitHub README.md file. The formatting is preserved and ready to use!
