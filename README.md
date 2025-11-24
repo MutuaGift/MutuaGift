@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hello, world I'm Gift 
+# Hello,I'm Gift 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%92%A1;Building+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
 
