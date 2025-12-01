@@ -1,21 +1,19 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Gift%20Mutua&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Gift%20Mutua&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </div>
 
 <div align="center">
   
-### `< Full-Stack Developer />` | `Mobile Engineer` | `System Builder`
+## Full-Stack Developer | Building Mobile & Backend Solutions
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Android+%2B+Backend+Development;Full-Stack+Mobile+Solutions;Kotlin+%7C+Python+%7C+System+Design;Crafting+scalable+architectures+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Android+%2B+Backend+Development;Building+Real-World+Solutions;Kotlin+%7C+Python+%7C+System+Design;Turning+ideas+into+working+apps+🚀" alt="Typing SVG" />
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-mutisogift2%40gmail.com-00d9ff?style=flat-square&logo=gmail&logoColor=white)](mailto:mutisogift2@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mutisogift2%40gmail.com-0066cc?style=flat-square&logo=gmail&logoColor=white)](mailto:mutisogift2@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-MutuaGift-181717?style=flat-square&logo=github)](https://github.com/MutuaGift)
 [![Instagram](https://img.shields.io/badge/Instagram-l.1wuu-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/l.1wuu/)
-![Profile Views](https://komarev.com/ghpvc/?username=MutuaGift&style=flat-square&color=00d9ff)
+![Profile Views](https://komarev.com/ghpvc/?username=MutuaGift&style=flat-square&color=0066cc)
 
 </div>
 
@@ -23,316 +21,246 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
+
+Hey! I'm Gift, a full-stack developer who loves connecting mobile apps with powerful backends. I focus on building things that actually work and solve real problems.
 
 ```kotlin
-data class FullStackDeveloper(
+data class Developer(
     val name: String = "Gift Mutua",
     val role: String = "Full-Stack Developer",
     val location: String = "Nairobi, Kenya 🇰🇪",
-    val expertise: List<String> = listOf(
-        "Android Development",
-        "Backend Architecture", 
-        "Distributed Systems"
+    val passions: List<String> = listOf(
+        "Mobile Development",
+        "Backend APIs", 
+        "Real-time Systems",
+        "System Design"
     ),
-    val techStack: Map<String, List<String>> = mapOf(
-        "mobile" to listOf("Kotlin", "Jetpack Compose", "Material 3"),
-        "backend" to listOf("Python", "FastAPI", "REST APIs"),
-        "database" to listOf("MongoDB", "Firebase", "Real-time Sync"),
-        "tools" to listOf("Git", "Postman", "Android Studio")
-    ),
-    val currentFocus: String = "Building real-time distributed systems",
-    val philosophy: String = "Ship fast. Iterate faster. Scale smarter. 🚀"
+    val approach: String = """
+        1. Understand the problem
+        2. Build & test quickly  
+        3. Make it scale
+        4. Keep improving
+    """.trimIndent(),
+    val motto: String = "Ship fast, learn faster, build better 🚀"
 )
 ```
-
-**💼 Specialization:** Connecting powerful backends with intuitive mobile frontends
-
-**🎯 Mission:** Creating seamless full-stack experiences that solve real-world problems
-
-**⚡ Latest Achievement:** Built a complete real-time safety platform from scratch
 
 <br clear="right"/>
 
 ---
 
-<div align="center">
-
-## 🛠️ **Full-Stack Arsenal**
-
-</div>
+## 🛠 Tech Stack
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### 📱 **Frontend (Mobile)**
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 📱 Mobile
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Material 3](https://img.shields.io/badge/Material_3-757575?style=flat-square&logo=material-design&logoColor=white)
 
-</td>
-<td align="center" width="50%">
-
-### ⚙️ **Backend (Server)**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+Modern Android with Jetpack Compose
 
 </td>
-</tr>
-<tr>
-<td align="center">
+<td align="center" width="33%">
 
-### 🗄️ **Database & Storage**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### ⚙️ Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+Building fast & reliable APIs
 
 </td>
-<td align="center">
+<td align="center" width="33%">
 
-### 🔧 **DevOps & Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🗄️ Data & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+Databases & dev tools I use daily
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-### 🌐 **Web Technologies**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-</div>
-
-<br/>
-
 ---
 
-<div align="center">
+## 🚀 Projects I've Built
 
-## 🚀 **Full-Stack Projects**
+### 🛡️ CampusGuardian | Real-Time Safety Platform
 
-</div>
+A complete system connecting students with safe transportation through live GPS tracking.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%">
 
-### 🛡️ CampusGuardian
-**Real-Time Safety Escort Platform**
+**What I Built:**
 
-A complete distributed system connecting students with secure transportation through intelligent matching and GPS tracking.
-
-#### 🏗️ Architecture
 ```
-Android Client (Kotlin + Compose)
+Mobile App (Kotlin + Jetpack Compose)
         ↕️
-REST API (Python + FastAPI)
+Backend API (Python FastAPI)
         ↕️
 MongoDB Database
 ```
 
-#### 💻 Full-Stack Implementation
-- **Frontend:** Kotlin, Jetpack Compose, Material 3, Google Maps SDK
-- **Backend:** Python, FastAPI, RESTful Architecture, Pydantic
-- **Database:** MongoDB with real-time data sync
-- **Security:** JWT Auth, API Key management, Data encryption
+**Tech Stack:**
+- **Frontend:** Kotlin, Jetpack Compose, Google Maps SDK
+- **Backend:** Python, FastAPI, RESTful APIs
+- **Database:** MongoDB with real-time sync
+- **Security:** JWT authentication, encrypted data
 
-#### ✨ Technical Highlights
-- ⚡ Sub-second GPS updates with WebSocket connections
-- 🔐 End-to-end encryption for user data
-- 👥 Dual role-based dashboards (Driver/Passenger)
-- 🎯 RESTful API design with comprehensive validation
-- 📍 Real-time location tracking and route optimization
-- 🔄 Async request handling for scalability
-
-#### 🎓 What This Demonstrates
-- Complete full-stack architecture design
-- Mobile-to-server communication patterns
-- Real-time data synchronization
-- Secure authentication systems
-- Scalable backend design
+**Cool Features:**
+- ⚡ Real-time GPS tracking (updates every few seconds)
+- 🔐 Secure login and data encryption
+- 👥 Separate interfaces for drivers and passengers
+- 📍 Live location sharing and route tracking
+- 🔄 Works offline and syncs when back online
 
 </td>
-<td width="50%" valign="top">
+<td width="40%">
 
-### 🎵 Echo Music Tracker
-**Music Analytics & Recommendation Platform**
+**What I Learned:**
 
-A web-based application for tracking listening habits with real-time analytics and personalized recommendations.
+Building this taught me how to:
+- Design full-stack systems from scratch
+- Handle real-time data between apps and servers
+- Implement secure authentication
+- Optimize for performance
+- Deploy and maintain production apps
 
-#### 🏗️ Tech Stack
-- **Frontend:** React, Modern UI/UX
-- **Backend:** Node.js, Express
-- **Database:** MongoDB
-- **APIs:** Music streaming integrations
-
-#### ✨ Features
-- 📊 Real-time listening statistics dashboard
-- 🤖 AI-powered music recommendations
-- 🌐 Social sharing and discovery
-- 📱 Fully responsive design
-- 📈 Historical data visualization
-
-#### 🎓 Skills Showcased
-- Full-stack web development
-- RESTful API design
-- Data visualization
-- User experience design
-- Database modeling
+**Impact:**
+- Built in 24 hours during a hackathon
+- Handles multiple users simultaneously
+- Fast response times
+- Mobile-first design approach
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
+
+### 🎵 Echo Music Tracker | Listening Analytics
+
+A web app for tracking your music habits with cool visualizations and recommendations.
+
+**Tech Stack:**
+- Frontend: React + TypeScript
+- Backend: Node.js + Express
+- Database: MongoDB
+- Real-time updates with Socket.IO
+
+**Features:**
+- 📊 Track what you're listening to in real-time
+- 🎨 Beautiful charts and statistics
+- 🤖 Personalized music recommendations
+- 🌐 Share your music taste with friends
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-## 📊 **GitHub Analytics**
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=MutuaGift&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" />
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MutuaGift&theme=github-dark&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MutuaGift&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MutuaGift&show_icons=true&theme=default" alt="GitHub Stats" />
-</picture>
+### 🐍 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=MutuaGift&theme=react&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MutuaGift&theme=default" alt="GitHub Streak" />
-</picture>
+<img src="https://raw.githubusercontent.com/MutuaGift/MutuaGift/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
-<br/><br/>
+<br/>
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MutuaGift/MutuaGift/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MutuaGift/MutuaGift/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MutuaGift/MutuaGift/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MutuaGift&custom_title=Contribution%20Activity&bg_color=0D1117&color=00d9ff&line=00d9ff&point=00d9ff&area_color=00d9ff&area=true&hide_border=true" />
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MutuaGift&theme=github" alt="Contribution Graph" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MutuaGift&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" />
-  <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MutuaGift&layout=compact&theme=default&langs_count=8" alt="Top Languages" />
-</picture>
+<img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MutuaGift&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
 </div>
 
-<br/>
-
 ---
 
-<div align="center">
-
-## 💡 **Development Approach**
-
-> *"Full-stack thinking: Where frontend elegance meets backend robustness"*
+## 💭 How I Work
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-### 🎨 Design
-**User-First**  
-Beautiful interfaces that users love
+### 🎯 Focus
+**Quality matters**  
+Write clean code that works
 
 </td>
 <td align="center" width="25%">
 
-### 🏗️ Architect
-**System Thinking**  
-Scalable, maintainable structures
+### 🔄 Iterate
+**Build → Test → Improve**  
+Ship fast, learn from feedback
 
 </td>
 <td align="center" width="25%">
 
-### ⚡ Optimize
-**Performance**  
-Fast, efficient, reliable code
+### 🤝 Collaborate
+**Better together**  
+Great projects need great teams
 
 </td>
 <td align="center" width="25%">
 
-### 🔒 Secure
-**Safety First**  
-Protected data, trusted systems
+### 📚 Learn
+**Always growing**  
+Every project teaches something new
 
 </td>
 </tr>
 </table>
 
-</div>
+---
 
-<br/>
+## 🌱 Currently Learning
+
+- Building distributed systems that scale
+- Advanced mobile security practices
+- Performance optimization techniques
+- Modern system design patterns
+- Cloud infrastructure (AWS, Docker)
 
 ---
 
 <div align="center">
 
-## 🎯 **Current Focus Areas**
+## 🤝 Let's Connect!
 
-- 🏗️ **Distributed Systems Architecture** - Building scalable microservices
-- 🔐 **Mobile Security** - Implementing best practices for app security
-- ⚡ **Performance Optimization** - Making apps faster and more efficient
-- 📱 **Advanced Jetpack Compose** - Mastering modern Android UI
-- 🚀 **Real-time Systems** - WebSockets, live data sync, event streaming
+I'm always interested in working on cool projects or chatting about tech! Whether you have an idea, need help with something, or just want to talk code, feel free to reach out.
 
-</div>
+[![Email](https://img.shields.io/badge/📧_Email-mutisogift2%40gmail.com-0066cc?style=for-the-badge&logo=gmail)](mailto:mutisogift2@gmail.com)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-MutuaGift-181717?style=for-the-badge&logo=github)](https://github.com/MutuaGift)
 
-<br/>
+### Open to:
+`Collaborations` • `Freelance Work` • `Tech Discussions` • `Open Source` • `Learning Together`
 
 ---
-
-<div align="center">
-
-## 🤝 **Let's Build Together**
-
-I specialize in creating full-stack mobile solutions that bridge powerful backends with exceptional user experiences. Always interested in innovative projects and technical collaborations!
-
-[![Email](https://img.shields.io/badge/📧_Email_Me-mutisogift2@gmail.com-00d9ff?style=for-the-badge)](mailto:mutisogift2@gmail.com)
-[![GitHub](https://img.shields.io/badge/👨‍💻_GitHub_Profile-MutuaGift-181717?style=for-the-badge&logo=github)](https://github.com/MutuaGift)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Coming_Soon-00d9ff?style=for-the-badge)](https://github.com/MutuaGift)
-
-### *Open To:*
-`Full-Stack Projects` • `Mobile Development` • `Backend APIs` • `Technical Consulting` • `Open Source`
-
-</div>
-
-<br/>
-
-<div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
+---
 
-<br/>
-
-<div align="center">
-
-### ⭐ *Enjoying my work? Star my repositories to show support!*
-
-**💬 Fun Fact:** I turned a 24-hour hackathon idea into a production-ready full-stack safety platform!
+### ⭐ If you like what I'm building, consider starring my repos!
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
-</div>
