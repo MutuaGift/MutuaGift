@@ -6,9 +6,9 @@
 
 <div align="center">
   
-### `< Full-Stack Architect />` | `System Designer` | `Mobile Engineer`
+### `< Full-Stack Developer />` | `Mobile Engineer` | `System Builder`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Android+%2B+Backend+Development;Distributed+Systems+Architecture;Kotlin+%7C+Python+%7C+Real-time+Systems;Building+the+future%2C+one+API+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Android+%2B+Backend+Development;Full-Stack+Mobile+Solutions;Kotlin+%7C+Python+%7C+System+Design;Crafting+scalable+architectures+🚀" alt="Typing SVG" />
 
 <br/>
 
@@ -26,22 +26,31 @@
 ### 👨‍💻 About Me
 
 ```kotlin
-data class Developer(
+data class FullStackDeveloper(
     val name: String = "Gift Mutua",
     val role: String = "Full-Stack Developer",
     val location: String = "Nairobi, Kenya 🇰🇪",
-    val currentMission: String = "Building scalable distributed systems",
-    val languages: List<String> = listOf("Kotlin", "Python", "Java", "JavaScript", "C"),
-    val architecture: List<String> = listOf("Android", "REST APIs", "Microservices"),
-    val focusAreas: Map<String, String> = mapOf(
-        "mobile" to "Jetpack Compose + Material 3",
-        "backend" to "FastAPI + Async Architecture",
-        "data" to "MongoDB + Real-time Sync"
+    val expertise: List<String> = listOf(
+        "Android Development",
+        "Backend Architecture", 
+        "Distributed Systems"
     ),
-    val currentlyLearning: List<String> = listOf("System Design", "Mobile Security"),
-    val mantra: String = "Ship fast. Iterate faster. 🚀"
+    val techStack: Map<String, List<String>> = mapOf(
+        "mobile" to listOf("Kotlin", "Jetpack Compose", "Material 3"),
+        "backend" to listOf("Python", "FastAPI", "REST APIs"),
+        "database" to listOf("MongoDB", "Firebase", "Real-time Sync"),
+        "tools" to listOf("Git", "Postman", "Android Studio")
+    ),
+    val currentFocus: String = "Building real-time distributed systems",
+    val philosophy: String = "Ship fast. Iterate faster. Scale smarter. 🚀"
 )
 ```
+
+**💼 Specialization:** Connecting powerful backends with intuitive mobile frontends
+
+**🎯 Mission:** Creating seamless full-stack experiences that solve real-world problems
+
+**⚡ Latest Achievement:** Built a complete real-time safety platform from scratch
 
 <br clear="right"/>
 
@@ -49,7 +58,7 @@ data class Developer(
 
 <div align="center">
 
-## 🎯 **Core Competencies**
+## 🛠️ **Full-Stack Arsenal**
 
 </div>
 
@@ -57,39 +66,52 @@ data class Developer(
 <tr>
 <td align="center" width="50%">
 
-### 📱 **Mobile Development**
+### 📱 **Frontend (Mobile)**
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </td>
 <td align="center" width="50%">
 
-### ⚙️ **Backend Engineering**
+### ⚙️ **Backend (Server)**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td align="center">
 
-### 🗄️ **Database & Cloud**
+### 🗄️ **Database & Storage**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </td>
 <td align="center">
 
-### 🛠️ **Tools & DevOps**
+### 🔧 **DevOps & Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+### 🌐 **Web Technologies**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+</div>
 
 <br/>
 
@@ -97,49 +119,76 @@ data class Developer(
 
 <div align="center">
 
-## 🚀 **Featured Projects**
+## 🚀 **Full-Stack Projects**
 
 </div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛡️ CampusGuardian
-**Real-time Safety Escort System**
+**Real-Time Safety Escort Platform**
 
-A distributed safety platform connecting students with secure transportation through real-time GPS tracking and intelligent matching algorithms.
+A complete distributed system connecting students with secure transportation through intelligent matching and GPS tracking.
 
-**Stack:**
-- 📱 Frontend: Kotlin + Jetpack Compose
-- 🔧 Backend: Python + FastAPI
-- 💾 Database: MongoDB
-- 🗺️ Maps: Google Maps SDK
+#### 🏗️ Architecture
+```
+Android Client (Kotlin + Compose)
+        ↕️
+REST API (Python + FastAPI)
+        ↕️
+MongoDB Database
+```
 
-**Highlights:**
-- ⚡ Sub-second GPS updates
-- 🔐 End-to-end encryption
-- 👥 Role-based dashboards
-- 🎯 RESTful architecture
+#### 💻 Full-Stack Implementation
+- **Frontend:** Kotlin, Jetpack Compose, Material 3, Google Maps SDK
+- **Backend:** Python, FastAPI, RESTful Architecture, Pydantic
+- **Database:** MongoDB with real-time data sync
+- **Security:** JWT Auth, API Key management, Data encryption
+
+#### ✨ Technical Highlights
+- ⚡ Sub-second GPS updates with WebSocket connections
+- 🔐 End-to-end encryption for user data
+- 👥 Dual role-based dashboards (Driver/Passenger)
+- 🎯 RESTful API design with comprehensive validation
+- 📍 Real-time location tracking and route optimization
+- 🔄 Async request handling for scalability
+
+#### 🎓 What This Demonstrates
+- Complete full-stack architecture design
+- Mobile-to-server communication patterns
+- Real-time data synchronization
+- Secure authentication systems
+- Scalable backend design
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎵 Echo Music Tracker
-**Listening Habits Analytics**
+**Music Analytics & Recommendation Platform**
 
-Comprehensive music tracking platform with real-time statistics and personalized recommendations powered by machine learning.
+A web-based application for tracking listening habits with real-time analytics and personalized recommendations.
 
-**Stack:**
-- ⚛️ React + Modern UI
-- 🔧 Node.js + Express
-- 💾 MongoDB
+#### 🏗️ Tech Stack
+- **Frontend:** React, Modern UI/UX
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **APIs:** Music streaming integrations
 
-**Highlights:**
-- 📊 Real-time analytics
-- 🤖 AI recommendations
-- 🌐 Social integration
-- 📱 Responsive design
+#### ✨ Features
+- 📊 Real-time listening statistics dashboard
+- 🤖 AI-powered music recommendations
+- 🌐 Social sharing and discovery
+- 📱 Fully responsive design
+- 📈 Historical data visualization
+
+#### 🎓 Skills Showcased
+- Full-stack web development
+- RESTful API design
+- Data visualization
+- User experience design
+- Database modeling
 
 </td>
 </tr>
@@ -153,12 +202,37 @@ Comprehensive music tracking platform with real-time statistics and personalized
 
 ## 📊 **GitHub Analytics**
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MutuaGift&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MutuaGift&theme=react&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MutuaGift&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MutuaGift&show_icons=true&theme=default" alt="GitHub Stats" />
+</picture>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MutuaGift&custom_title=Contribution%20Graph&bg_color=0D1117&color=00d9ff&line=00d9ff&point=00d9ff&area_color=00d9ff&area=true&hide_border=true" alt="Contribution Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MutuaGift&theme=react&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=MutuaGift&theme=default" alt="GitHub Streak" />
+</picture>
 
-<img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MutuaGift&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<br/><br/>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MutuaGift/MutuaGift/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MutuaGift/MutuaGift/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MutuaGift/MutuaGift/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MutuaGift&custom_title=Contribution%20Activity&bg_color=0D1117&color=00d9ff&line=00d9ff&point=00d9ff&area_color=00d9ff&area=true&hide_border=true" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MutuaGift&theme=github" alt="Contribution Graph" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MutuaGift&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" />
+  <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MutuaGift&layout=compact&theme=default&langs_count=8" alt="Top Languages" />
+</picture>
 
 </div>
 
@@ -168,31 +242,38 @@ Comprehensive music tracking platform with real-time statistics and personalized
 
 <div align="center">
 
-## 💡 **Development Philosophy**
+## 💡 **Development Approach**
 
-> *"The best code is code that ships. The best architecture is one that evolves."*
+> *"Full-stack thinking: Where frontend elegance meets backend robustness"*
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### 🎯 Focus
-**Quality over quantity**  
-Every line serves a purpose
-
-</td>
-<td align="center" width="33%">
-
-### 🔄 Iterate
-**Ship, learn, improve**  
-Rapid cycles, constant growth
+### 🎨 Design
+**User-First**  
+Beautiful interfaces that users love
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### 🤝 Collaborate
-**Build together**  
-Great software is a team sport
+### 🏗️ Architect
+**System Thinking**  
+Scalable, maintainable structures
+
+</td>
+<td align="center" width="25%">
+
+### ⚡ Optimize
+**Performance**  
+Fast, efficient, reliable code
+
+</td>
+<td align="center" width="25%">
+
+### 🔒 Secure
+**Safety First**  
+Protected data, trusted systems
 
 </td>
 </tr>
@@ -206,15 +287,32 @@ Great software is a team sport
 
 <div align="center">
 
-## 🌟 **Let's Build Something Amazing**
+## 🎯 **Current Focus Areas**
 
-I'm always excited to collaborate on innovative projects, discuss system architecture, or explore new technologies.
+- 🏗️ **Distributed Systems Architecture** - Building scalable microservices
+- 🔐 **Mobile Security** - Implementing best practices for app security
+- ⚡ **Performance Optimization** - Making apps faster and more efficient
+- 📱 **Advanced Jetpack Compose** - Mastering modern Android UI
+- 🚀 **Real-time Systems** - WebSockets, live data sync, event streaming
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 🤝 **Let's Build Together**
+
+I specialize in creating full-stack mobile solutions that bridge powerful backends with exceptional user experiences. Always interested in innovative projects and technical collaborations!
 
 [![Email](https://img.shields.io/badge/📧_Email_Me-mutisogift2@gmail.com-00d9ff?style=for-the-badge)](mailto:mutisogift2@gmail.com)
-[![GitHub](https://img.shields.io/badge/👨‍💻_Follow_on_GitHub-MutuaGift-181717?style=for-the-badge&logo=github)](https://github.com/MutuaGift)
+[![GitHub](https://img.shields.io/badge/👨‍💻_GitHub_Profile-MutuaGift-181717?style=for-the-badge&logo=github)](https://github.com/MutuaGift)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Coming_Soon-00d9ff?style=for-the-badge)](https://github.com/MutuaGift)
 
-### *Currently open to:*
-`Freelance Projects` • `Open Source Contributions` • `Technical Discussions` 
+### *Open To:*
+`Full-Stack Projects` • `Mobile Development` • `Backend APIs` • `Technical Consulting` • `Open Source`
 
 </div>
 
@@ -227,6 +325,14 @@ I'm always excited to collaborate on innovative projects, discuss system archite
 </div>
 
 <br/>
+
+<div align="center">
+
+### ⭐ *Enjoying my work? Star my repositories to show support!*
+
+**💬 Fun Fact:** I turned a 24-hour hackathon idea into a production-ready full-stack safety platform!
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
 </div>
