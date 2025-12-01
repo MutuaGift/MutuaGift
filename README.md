@@ -1,9 +1,8 @@
-
 <div align="center">
 
-# Hello,I'm Gift 
+# Hello, I'm Gift 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%92%A1;Building+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Android+%26+Backend+Developer;Building+Distributed+Systems+%F0%9F%9A%80;Kotlin+%2B+Python+Architect+%E2%9C%A8" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MutuaGift&style=for-the-badge&color=00d9ff)](https://github.com/MutuaGift)
 
@@ -19,26 +18,22 @@ Transforming caffeine into code and ideas into reality, one commit at a time ☕
 
 ## 🎯 About Me
 
-I'm a full-stack developer with a passion for building tools that solve real problems. Whether it's developing web applications or diving into systems programming, I believe in learning by doing and shipping projects that matter.
+I'm a full-stack developer moving beyond simple apps into **System Architecture**. I specialize in connecting mobile frontends with robust backends. Currently focused on building real-time, location-based services and mastering the art of secure, distributed software.
 
 ```kotlin
-data class Developer(
+data class FullStackDev(
     val name: String = "Gift",
-    val currentFocus: List<String> = listOf(
-        "Crafting Digital Experiences", 
-        "Learning by Building", 
-        "Turning Ideas into Reality"
+    val currentFocus: String = "System Orchestration & Mobile Security",
+    val techStack: Map<String, List<String>> = mapOf(
+        "Mobile" to listOf("Kotlin", "Jetpack Compose", "Google Maps SDK"),
+        "Backend" to listOf("Python", "FastAPI", "REST Architecture"),
+        "Data" to listOf("MongoDB", "Real-time Sync")
     ),
-    val languages: List<String> = listOf(
-        "C", "Kotlin", "Java", "Python", "JavaScript"
-    ),
-    val frameworks: List<String> = listOf("React", "Node.js"),
-    val databases: List<String> = listOf("Firebase", "MongoDB"),
     val philosophy: String = "Ship fast, iterate faster 🚢",
-    val funFact: String = "I believe in learning by building 💡"
+    val latestAchievement: String = "Built a Full-Stack Safety System in 24h ⚡"
 )
 
-val me = Developer()
+val me = FullStackDev()
 ```
 
 ---
@@ -47,24 +42,50 @@ val me = Developer()
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=c,kotlin,java,python,js,typescript,html,css&theme=dark" alt="Languages" />
+### Core Stack
+<img src="https://skillicons.dev/icons?i=kotlin,python,java,c,js,html,css&theme=dark" alt="Languages" />
 
-### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=dark" alt="Frameworks" />
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=fastapi,mongodb,firebase,nodejs,express&theme=dark" alt="Backend" />
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,firebase,mongodb,figma&theme=dark" alt="Tools" />
+### Tools & DevOps
+<img src="https://skillicons.dev/icons?i=androidstudio,git,github,postman,linux,bash,vscode,figma&theme=dark" alt="Tools" />
 
 </div>
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Flagship Projects
 
-- 🎵 **Echo Music Tracker** - Web application for tracking music listening habits
-- 🌐 **Portfolio Projects** - Building and refining full-stack applications
-- 📚 **Learning Journey** - Deepening knowledge in backend architecture and cloud services
+### 🛡️ CampusGuardian (Latest)
+A full-stack, real-time safety escort system for university students.
+
+**Architecture:** Distributed System (Android Client ↔ Python Brain ↔ MongoDB Memory)
+
+**Tech Stack:** Kotlin (Jetpack Compose), Python (FastAPI), MongoDB, Google Maps SDK
+
+**Key Features:**
+- Real-time GPS tracking with sub-second updates
+- Secure API Key management with environment variables
+- Role-based Dashboards (Driver/Passenger interfaces)
+- RESTful API with Pydantic validation
+- End-to-end encryption for sensitive data
+
+[🔗 View Project](https://github.com/MutuaGift/CampusGuardian)
+
+---
+
+### 🎵 Echo Music Tracker
+Web application for tracking music listening habits with beautiful analytics.
+
+**Tech Stack:** React, Node.js, Express, MongoDB
+
+**Features:**
+- Real-time listening statistics
+- Personalized music recommendations
+- Social sharing capabilities
+
+[🔗 View Project](https://github.com/MutuaGift/echo-music-tracker)
 
 ---
 
@@ -73,18 +94,9 @@ val me = Developer()
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MutuaGift&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MutuaGift&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MutuaGift&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MutuaGift&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
@@ -92,53 +104,28 @@ val me = Developer()
 
 ---
 
-## 🏆 Achievements
+## 🏆 Recent Activity
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MutuaGift&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-
-</div>
-
----
-
-## 💡 What I'm Learning
-
-- 🔥 Advanced Firebase techniques and real-time databases
-- 🎨 Modern UI/UX design principles
-- 🧪 Test-driven development practices
-- ⚡ Performance optimization strategies
-- 🔐 Security best practices for web applications
-
----
-
-## 🤝 Let's Collaborate!
-
-I'm always open to interesting projects, hackathons, or just geeking out about tech. Whether you have an idea or want to contribute to existing projects, let's connect!
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-MutuaGift-00d9ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MutuaGift)
-[![Email](https://img.shields.io/badge/Email-mutisogift2%40gmail.com-00d9ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mutisogift2@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@l.1wuu-00d9ff?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l.1wuu/)
-
-</div>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
 <div align="center">
 
-### 💭 Daily Mantra
+### 💭 Developer Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-*"Consistent progress > Sporadic perfection"*
+---
 
-**🎨 Creative • 🔍 Curious • 🎯 Consistent**
+### 🤝 Let's Connect!
 
-<img src="https://github.com/MutuaGift/MutuaGift/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+Building something cool? Let's collaborate! Always open to discussing new projects, creative ideas, or opportunities.
 
-<sub>⭐️ Like what you see? Star some repos and let's build together!</sub>
+**📫 Reach me at:** [mutisogift2@gmail.com](mailto:mutisogift2@gmail.com)
 
-![](https://hit.yhype.me/github/profile?user_id=234061294)
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=100&section=footer" />
 
 </div>
-```
