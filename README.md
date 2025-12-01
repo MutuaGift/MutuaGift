@@ -208,8 +208,8 @@ A web-based application for tracking listening habits with real-time analytics a
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MutuaGift&theme=react&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=MutuaGift&theme=default" alt="GitHub Streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=MutuaGift&theme=react&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MutuaGift&theme=default" alt="GitHub Streak" />
 </picture>
 
 <br/><br/>
